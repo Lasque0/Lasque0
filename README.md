@@ -3,15 +3,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lasque0&show_icons=true&theme=highcontrast&hide_border=true&bg_color=00000000&custom_title=Lasque0%27s%20Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lasque0&theme=highcontrast&hide_border=true&background=00000000" width="48%" />
-</p>
-
----
-
 ### ⚙️ Tech Stack
 
 <p align="center">
