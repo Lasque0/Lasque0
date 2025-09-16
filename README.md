@@ -26,6 +26,39 @@
 
 ---
 
-<p align="center">
-  <strong style="color:#FF3131;">🔥 Stay low-level. Think high-level. — Lasque0</strong>
-</p>
+### 💻 Sample C++ Code: File Read & Write
+
+```cpp
+#include <iostream>
+#include <fstream>
+#include <string>
+
+int main() {
+    std::string filename = "example.txt";
+
+    // Writing to file
+    std::ofstream outFile(filename);
+    if (!outFile) {
+        std::cerr << "Unable to open file!" << std::endl;
+        return 1;
+    }
+    outFile << "Hello, Lasque0!" << std::endl;
+    outFile << "This file was written by C++." << std::endl;
+    outFile.close();
+
+    // Reading from file
+    std::ifstream inFile(filename);
+    if (!inFile) {
+        std::cerr << "Unable to open file!" << std::endl;
+        return 1;
+    }
+
+    std::string line;
+    std::cout << "File contents:" << std::endl;
+    while (std::getline(inFile, line)) {
+        std::cout << line << std::endl;
+    }
+    inFile.close();
+
+    return 0;
+}
