@@ -16,10 +16,11 @@
 ### 🧠 <span style="color:#FF3131;">About Me</span>
 
 <blockquote>
-  <p><strong style="color:#FF5555;">┌──────────────────────────────</strong></p>
-  <p><strong style="color:#FF5555;">│</strong> 🌍 From Turkey</p>
-  <p><strong style="color:#FF5555;">│</strong> 👨‍💻 Focused on low-level programming</p>
-  <p><strong style="color:#FF5555;">│</strong> ⚙️ Loves building desktop tools</p>
-  <p><strong style="color:#FF5555;">│</strong> 🧠 Always learning & pushing limits</p>
-  <p><strong style="color:#FF5555;">└──────────────────────────────</strong></p>
+  <p><strong style="color:#FF5555;">┌───────────────────────────────────────────</strong></p>
+  <p><strong style="color:#FF5555;">│</strong> 🌍 From Turkey, passionate about systems programming and performance optimization.</p>
+  <p><strong style="color:#FF5555;">│</strong> 👨‍💻 Dedicated to C++ and low-level software development.</p>
+  <p><strong style="color:#FF5555;">│</strong> ⚙️ Enjoy crafting efficient desktop applications and tooling from the ground up.</p>
+  <p><strong style="color:#FF5555;">│</strong> 🧠 Lifelong learner, constantly pushing the boundaries of what I can build.</p>
+  <p><strong style="color:#FF5555;">│</strong> 🚀 Ambitious and ready to tackle complex challenges in embedded systems and beyond.</p>
+  <p><strong style="color:#FF5555;">└───────────────────────────────────────────</strong></p>
 </blockquote>
