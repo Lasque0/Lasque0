@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/1259151/230872889-e63b2b00-528a-4e92-8a87-47e22c1dbda7.gif" alt="Lasque Neon" width="200" />
-</h1>
+<h1 align="center"> <span style="color:#FF3131;">Lasque</span> </h1>
+<h3 align="center" style="color:#ff0000;"> C++ Junior Developer </h3>
 
 ---
 
@@ -24,32 +23,15 @@
 ### 🧠 <span style="color:#FF3131;">About Me</span>
 
 <blockquote>
-  <p><strong style="color:#FF5555;">┌──(Lasque0㉿root)-[~]</strong></p>
   <p><strong style="color:#FF5555;">│</strong> 🌍 From Turkey</p>
   <p><strong style="color:#FF5555;">│</strong> 👨‍💻 Focused on low-level programming</p>
   <p><strong style="color:#FF5555;">│</strong> ⚙️ Loves building desktop tools</p>
   <p><strong style="color:#FF5555;">│</strong> 🧠 Always learning & pushing limits</p>
-  <p><strong style="color:#FF5555;">└───────────────────────────────────────</strong></p>
 </blockquote>
-
----
-
-### 🖥️ Terminal Coding Animation
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1259151/230872947-c6f309f9-7f62-4569-bd1b-e6d9f14f50e0.gif" alt="Terminal Code Animation" width="500" />
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lasque0&color=red&style=flat-square" alt="Lasque0" />
-</p>
 
 ---
 
 <p align="center">
   <strong style="color:#FF3131;">🔥 Stay low-level. Think high-level. — Lasque0</strong>
 </p>
+
