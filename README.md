@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#FF3131; font-weight:bold;">Lasque</span>
+  <span style="color:#FF3131; font-weight:bold;"></span>
 </h1>
 <h3 align="center" style="color:#ff0000;">C++ Developer</h3>
 
