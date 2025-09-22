@@ -1,7 +1,7 @@
 <h1 align="center">
   <span style="color:#FF3131; font-weight:bold;"></span>
 </h1>
-<h3 align="center" style="color:#ff0000;">C/C++ Developer</h3>
+<h3 align="center" style="color:#ff0000;">C++ Developer</h3>
 
 ---
 
